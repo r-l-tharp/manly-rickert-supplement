@@ -1,0 +1,69 @@
+{
+    "responses": [
+      {
+        "labelAnnotations": [
+          {
+            "mid": "/m/09q2t",
+            "description": "Brown",
+            "score": 0.98046786,
+            "topicality": 0.98046786
+          },
+          {
+            "mid": "/m/0j62f",
+            "description": "Rectangle",
+            "score": 0.84682524,
+            "topicality": 0.84682524
+          },
+          {
+            "mid": "/m/04d01f",
+            "description": "Amber",
+            "score": 0.8384122,
+            "topicality": 0.8384122
+          },
+          {
+            "mid": "/m/083vt",
+            "description": "Wood",
+            "score": 0.8274047,
+            "topicality": 0.8274047
+          },
+          {
+            "mid": "/m/03hzcs",
+            "description": "Beige",
+            "score": 0.8233627,
+            "topicality": 0.8233627
+          },
+          {
+            "mid": "/m/01c34b",
+            "description": "Flooring",
+            "score": 0.78394806,
+            "topicality": 0.78394806
+          },
+          {
+            "mid": "/m/02q_bfg",
+            "description": "Tints and shades",
+            "score": 0.7661796,
+            "topicality": 0.7661796
+          },
+          {
+            "mid": "/m/03gq5hm",
+            "description": "Font",
+            "score": 0.73292494,
+            "topicality": 0.73292494
+          },
+          {
+            "mid": "/m/0hwky",
+            "description": "Pattern",
+            "score": 0.6995525,
+            "topicality": 0.6995525
+          },
+          {
+            "mid": "/m/03r18y",
+            "description": "Peach",
+            "score": 0.6981725,
+            "topicality": 0.6981725
+          }
+        ]
+      }
+    ]
+  }
+  
